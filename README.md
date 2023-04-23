@@ -5,7 +5,7 @@ we want to understand if there are patterns in this variation in order to derive
 
 ![newplot](https://user-images.githubusercontent.com/85830264/229553783-578d2566-a79b-4202-9a02-0e4a2e605eee.png)
 
-## ✨  Confusion matrix between features
+## ✨  Correlation matrix between features
 <br></br>
 <a href="https://ibb.co/bQ3rjXy"><img src="https://i.ibb.co/n60DqjV/Screenshot-314.png" alt="Screenshot-314" border="0"></a>
 <br></br>
